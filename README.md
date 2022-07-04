@@ -3,7 +3,7 @@
 [![follow][follow-img]][follow-img]
 
 - 👀 Interested in: encrypt/decrypt/binary/bitcoin
-- 📫 How to reach me: issue in this [repo](https://github.com/authendic/authendic/issues) or [danielliwd86](mailto: danielliwd86@gmail.com)
+- 📫 How to reach me: issue in this [repo](https://github.com/authendic/authendic/issues) or mailto: danielliwd86@gmail.com
 
 [![github-stats][github-stats]][github-stats]
 
