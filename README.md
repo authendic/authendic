@@ -2,4 +2,4 @@
 - 👀 Interested in: encrypt/decrypt/binary/bitcoin
 - 📫 How to reach me: issue in this [repo](https://github.com/authendic/authendic/issues) or mailto: danielliwd86@gmail.com
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=authendic&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![https://img.shields.io/appveyor/build/authendic/vim-template?style=for-the-badge]]()
+[![https://shields.io//github/followers/authendic?label=Follow]]()
