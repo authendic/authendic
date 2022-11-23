@@ -2,7 +2,7 @@
 
 [![follow][follow-img]][follow-img]
 
-- 👀 Interested in: encrypt/decrypt/binary/bitcoin
+- 👀 Interested in: vim/linux
 - 📫 How to reach me: issue in this [repo](https://github.com/authendic/authendic/issues) or mailto: danielliwd86@gmail.com
 
 [![github-stats][github-stats]][github-stats]
